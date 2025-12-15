@@ -6,23 +6,6 @@ The goal is not theory, but **exact commands and workflow** used in real Capture
 
 ---
 
-## 📂 Repository Structure
-
-```
-SleuthKit-CTF-Guide/
-│
-├── README.md            # Main guide (this file)
-├── cheatsheet.md        # Quick reference commands
-├── examples/            # Example commands & outputs
-│   └── basic_disk.img.md
-├── practice/            # Practice challenges (no solutions)
-│   └── challenge_1.md
-└── writeups/            # Sample CTF writeups
-    └── deleted_flag.md
-```
-
----
-
 ## 🧠 What is The Sleuth Kit?
 
 **The Sleuth Kit (TSK)** is a collection of command-line tools used to analyze **disk images** and **file systems**.
