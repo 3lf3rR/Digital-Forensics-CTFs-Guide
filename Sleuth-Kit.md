@@ -180,7 +180,7 @@ Used in challenges involving **activity reconstruction**.
 ## 🧾 Example Flag Format
 
 ```
-SecurinetsISTIC{sl3uthk1t_ctf_m4st3r}
+flag{sl3uthk1t_ctf_m4st3r}
 ```
 
 ---
